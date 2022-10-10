@@ -1,2 +1,2 @@
 # Blog-Cafe
-Esta es una Pagina de un Blog de Café realizada con Html y Css
+This is a Coffee Blog Page made with Html and Css.
